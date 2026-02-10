@@ -6,9 +6,9 @@ export default function Hero() {
      
 
       <h1 className="text-5xl md:text-7xl font-semibold leading-tight max-w-5xl">
-        The human intelligence
+        The Operating System
         <br />
-        infrastructure for AGI
+        for Modern Property Development
       </h1>
     </section>
   );
